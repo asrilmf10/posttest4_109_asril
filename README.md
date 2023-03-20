@@ -1,7 +1,10 @@
-Tema Resep Makanan Indonesia
-Posttest 4 Pemrograman Mobile
+### Posttest 4 Pemrograman Mobile
+
 Asril Muhamad Fahroji - 2009106109
+
 Pemrograman Mobile A2
+
+Tema : Resep Makanan Indonesia
 
 ## Getting Started
 
