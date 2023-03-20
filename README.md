@@ -1,10 +1,5 @@
 ### Posttest 4 Pemrograman Mobile
 
-<<<<<<< HEAD
-=======
-Tema Resep Makanan Indonesia
-
->>>>>>> 9545412996792d435c992f959fb225efd5022ce4
 Asril Muhamad Fahroji - 2009106109
 
 Pemrograman Mobile A2
